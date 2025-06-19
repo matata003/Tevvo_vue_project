@@ -7,6 +7,7 @@
       <h2>{{ pokemon.name }}</h2>
 
       <div class="info-section">
+        
         <p><strong>Height:</strong> {{ pokemon.height }}</p>
         <p><strong>Weight:</strong> {{ pokemon.weight }}</p>
         <p>
