@@ -23,17 +23,17 @@ https://tevvovuechallange.vercel.app/
   ## Test Coverage Report
 
 Below is the screenshot of the test coverage result:
-## ✅ Test Coverage
-
-[![Coverage Report](./public/images/coverage report1.png)](./public/images/coveragereport2.png)
+##  Test Coverage
+Tevvo_vue_project/public/images
+/Coverage Report2.png
 
 
 (.\images\CoverageReport2.png)
   
-## ✅ Testing
+## Testing
 - Tested with Vitest
 - Example test: `src/utils/__tests__/capitalize.test.js`
 - To run tests:
 ```bash
 npm run test
- Include a screenshot of test coverage report (you can run npx vitest --coverage)
+ 
