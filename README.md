@@ -29,7 +29,11 @@ Tevvo_vue_project/public/images
 
 
 (.\images\CoverageReport2.png)
-  
+
+  ### ✅ Test Coverage
+
+[![Coverage Report](public/images/Coverage%20Report2.png)](public/images/Coverage%20Report2.png)
+
 ## Testing
 - Tested with Vitest
 - Example test: `src/utils/__tests__/capitalize.test.js`
